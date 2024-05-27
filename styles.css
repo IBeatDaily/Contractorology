@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contractorology</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Contractorology</h1>
+        <p>Your trusted partner in construction and renovations</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#testimonials">Testimonials</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li><a href="#license">License & Insurance</a></li>
+        </ul>
+    </nav>
+
+    <section id="about">
+        <h2>About Contractorology</h2>
+        <p>At Contractorology, we believe in delivering quality and reliability. The name Contractorology embodies the science and art of contracting, bringing together expertise, precision, and dedication to every project we undertake.</p>
+        <p>Brandon, the owner, started his career with the town's parks and recreation department, managing parks and facilities with a dedicated crew. He was later promoted to lead the construction of a $10.5 million park, featuring a disc golf course, trails, a large lake, and a beautiful waterfall.</p>
+        <p>Brandon then launched his own handyman business, Lightning Handyman. Seeking further growth, he joined a company building indoor trampoline parks worldwide, progressing from an installer to a superintendent managing multi-million dollar projects. Brandon eventually led his own team, installing colorful epoxy floors across the country.</p>
+        <p>Returning to entrepreneurship, Brandon founded Contractorology, a general contracting company that has assisted in building Amazon warehouses in the PNW and completed various other significant projects.</p>
+    </section>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>General Contracting</li>
+            <li>Project Management</li>
+            <li>Handyman Services</li>
+            <li>Remodels</li>
+            <li>Renovations</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Our Projects</h2>
+        <p>Here are some of our featured projects:</p>
+        <ul>
+            <li>Project 1: Detailed description or image of the project.</li>
+            <li>Project 2: Detailed description or image of the project.</li>
+        </ul>
+    </section>
+
+    <section id="testimonials">
+        <h2>Client Testimonials</h2>
+        <blockquote>
+            <p>"Contractorology transformed our home with their remodeling services. Brandon's expertise is evident in every detail. Highly recommend!" - A Satisfied Client</p>
+        </blockquote>
+        <blockquote>
+            <p>"Professional, reliable, and skilled. Contractorology handled our renovation project flawlessly." - Another Happy Customer</p>
+        </blockquote>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Location: Portland, OR</p>
+        <p>Phone: 503-956-2250</p>
+        <p>Email: <a href="mailto:contact@contractorology.com">contact@contractorology.com</a></p>
+    </section>
+
+    <section id="license">
+        <h2>License & Insurance</h2>
+        <p>License Number: [Pending]</p>
+        <p>Insurance Information: [Pending]</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Contractorology. All rights reserved.</p>
+    </footer>
+</body>
+</html>
